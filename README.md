@@ -1,0 +1,2 @@
+# AspNetCoreMVC
+For Core apps
